@@ -522,7 +522,7 @@ section {
   padding-left: 5px;
 }
 .about .content .about-btn:hover {
-  background: #e35052;
+  background: #3e2d58;
   background: #25f5ad;
 }
 .about .icon-boxes .icon-box {
@@ -1230,7 +1230,7 @@ section {
   border-radius: 4px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #e35052;
+  background: #3e2d58;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1321,7 +1321,7 @@ section {
   border-radius: 4px;
 }
 .blog .entry .entry-content .read-more a:hover {
-  background: #e35052;
+  background: #3e2d58;
 }
 .blog .entry .entry-content h3 {
   font-size: 22px;
@@ -1781,7 +1781,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #e35052;
+  background: #3e2d58;
 }
 #footer .credits {
   padding-top: 5px;
